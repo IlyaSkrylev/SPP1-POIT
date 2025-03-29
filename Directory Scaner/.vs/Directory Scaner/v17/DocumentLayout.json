@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|d:\\works\\6 semestr\\spp\\directory scaner\\directory scaner\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\scanner\\mainscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|solutionrelative:scanner\\mainscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\images\\file.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\images\\file.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\scanner\\structures\\folderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|solutionrelative:scanner\\structures\\folderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\directory scaner\\images\\folder.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1C6AD415-AEA5-44BF-9A55-3F9F028AB712}|Directory Scaner\\Directory Scaner.csproj|solutionrelative:directory scaner\\images\\folder.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Scanner||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|D:\\Works\\6 semestr\\SPP\\Directory Scaner\\scanner\\structures\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1E1059-A0EF-4BD9-B02E-BE15697FE041}|Scanner\\Scanner.csproj|solutionrelative:scanner\\structures\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Directory Scaner\\MainViewModel.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainViewModel.cs",
+              "RelativeToolTip": "Directory Scaner\\MainViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:39:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Directory Scaner\\ViewModel.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\ViewModel.cs",
+              "RelativeToolTip": "Directory Scaner\\ViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:31:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "folder.png",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\Images\\folder.png",
+              "RelativeDocumentMoniker": "Directory Scaner\\Images\\folder.png",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\Images\\folder.png",
+              "RelativeToolTip": "Directory Scaner\\Images\\folder.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-26T15:29:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.png",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\Images\\file.png",
+              "RelativeDocumentMoniker": "Directory Scaner\\Images\\file.png",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\Images\\file.png",
+              "RelativeToolTip": "Directory Scaner\\Images\\file.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-26T15:27:02.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Directory Scaner\\MainWindow.xaml",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainWindow.xaml",
+              "RelativeToolTip": "Directory Scaner\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T14:29:25.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\App.xaml",
+              "RelativeDocumentMoniker": "Directory Scaner\\App.xaml",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\App.xaml",
+              "RelativeToolTip": "Directory Scaner\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T14:29:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FolderItem.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Structures\\FolderItem.cs",
+              "RelativeDocumentMoniker": "Scanner\\Structures\\FolderItem.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Structures\\FolderItem.cs",
+              "RelativeToolTip": "Scanner\\Structures\\FolderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:52:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainScanner.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\MainScanner.cs",
+              "RelativeDocumentMoniker": "Scanner\\MainScanner.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\MainScanner.cs",
+              "RelativeToolTip": "Scanner\\MainScanner.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:28:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Directory Scaner\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Directory Scaner\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:26:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Directory Scaner\\RelayCommand.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Directory Scaner\\RelayCommand.cs",
+              "RelativeToolTip": "Directory Scaner\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:41:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scanner",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Scanner.csproj",
+              "RelativeDocumentMoniker": "Scanner\\Scanner.csproj",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Scanner.csproj",
+              "RelativeToolTip": "Scanner\\Scanner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T08:29:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Structures\\FileItem.cs",
+              "RelativeDocumentMoniker": "Scanner\\Structures\\FileItem.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Directory Scaner\\Scanner\\Structures\\FileItem.cs",
+              "RelativeToolTip": "Scanner\\Structures\\FileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:50:25.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

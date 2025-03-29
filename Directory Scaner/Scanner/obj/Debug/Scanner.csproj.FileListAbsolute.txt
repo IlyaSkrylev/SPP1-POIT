@@ -1,0 +1,7 @@
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\obj\Debug\Scanner.csproj.AssemblyReference.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\bin\Debug\Scanner.dll.config
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\bin\Debug\Scanner.dll
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\bin\Debug\Scanner.pdb
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\obj\Debug\Scanner.dll
+D:\Works\6 semestr\SPP\Directory Scaner\Scanner\obj\Debug\Scanner.pdb

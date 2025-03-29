@@ -1,0 +1,20 @@
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Directory Scaner.exe.config
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Directory Scaner.exe
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Directory Scaner.pdb
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.csproj.AssemblyReference.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\MainWindow.g.cs
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\App.g.cs
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner_MarkupCompile.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner_MarkupCompile.lref
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\MainWindow.baml
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.g.resources
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory_Scaner.Properties.Resources.resources
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.csproj.GenerateResource.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.csproj.CoreCompileInputs.cache
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.exe
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Directory Scaner.pdb
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Scanner.dll
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Scanner.pdb
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\bin\Debug\Scanner.dll.config
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\Director.A45621A4.Up2Date
+D:\Works\6 semestr\SPP\Directory Scaner\Directory Scaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
