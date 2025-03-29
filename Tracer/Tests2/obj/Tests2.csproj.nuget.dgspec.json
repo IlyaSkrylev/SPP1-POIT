@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests2.csproj": {}
+  },
+  "projects": {
+    "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests2.csproj",
+        "projectName": "Tests2",
+        "projectPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests2.csproj",
+        "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
+        "outputPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Applications\\Visual Studio 2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+                "projectPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
+        "projectName": "Tracer",
+        "projectPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

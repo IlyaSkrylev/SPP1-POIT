@@ -1,0 +1,82 @@
+ThreadInfoResults:
+- ThreadId: 3
+  Time: 2248
+  Methods:
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1137
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 209
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 207
+      Methods: []
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1111
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 204
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 203
+      Methods: []
+- ThreadId: 5
+  Time: 2249
+  Methods:
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1137
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 210
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 207
+      Methods: []
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1112
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 204
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 203
+      Methods: []
+- ThreadId: 4
+  Time: 2248
+  Methods:
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1136
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 209
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 207
+      Methods: []
+  - MethodName: MyMethod
+    ClassName: Foo
+    Time: 1112
+    Methods:
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 204
+      Methods: []
+    - MethodName: InnerMethod
+      ClassName: Bar
+      Time: 203
+      Methods: []

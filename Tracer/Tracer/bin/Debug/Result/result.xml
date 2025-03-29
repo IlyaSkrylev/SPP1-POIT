@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ThreadInfoResults>
+    <ThreadInfoResult id="3" time="2248">
+      <Methods>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1137">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="209">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="207">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1111">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="204">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="203">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+      </Methods>
+    </ThreadInfoResult>
+    <ThreadInfoResult id="5" time="2249">
+      <Methods>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1137">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="210">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="207">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1112">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="204">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="203">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+      </Methods>
+    </ThreadInfoResult>
+    <ThreadInfoResult id="4" time="2248">
+      <Methods>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1136">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="209">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="207">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+        <MethodInfoResult name="MyMethod" class="Foo" time="1112">
+          <Methods>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="204">
+              <Methods />
+            </MethodInfoResult>
+            <MethodInfoResult name="InnerMethod" class="Bar" time="203">
+              <Methods />
+            </MethodInfoResult>
+          </Methods>
+        </MethodInfoResult>
+      </Methods>
+    </ThreadInfoResult>
+  </ThreadInfoResults>
+</TraceResult>

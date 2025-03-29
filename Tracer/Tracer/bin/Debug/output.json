@@ -1,0 +1,164 @@
+{
+  "ThreadInfoResults": [
+    {
+      "ThreadId": 5,
+      "Time": 1846,
+      "Methods": [
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 712,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 205,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 715,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 214,
+              "Methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ThreadId": 4,
+      "Time": 1846,
+      "Methods": [
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 712,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 205,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 715,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 214,
+              "Methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ThreadId": 3,
+      "Time": 1847,
+      "Methods": [
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 713,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 205,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 715,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 214,
+              "Methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ThreadId": 6,
+      "Time": 1845,
+      "Methods": [
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 712,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 204,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 715,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 214,
+              "Methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ThreadId": 7,
+      "Time": 1845,
+      "Methods": [
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 712,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 204,
+              "Methods": []
+            }
+          ]
+        },
+        {
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Time": 715,
+          "Methods": [
+            {
+              "MethodName": "InnerMethod",
+              "ClassName": "Bar",
+              "Time": 214,
+              "Methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

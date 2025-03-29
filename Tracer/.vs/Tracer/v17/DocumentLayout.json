@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|d:\\works\\6 semestr\\spp\\tracer\\tracer\\tests2\\tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|solutionrelative:tests2\\tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|d:\\works\\6 semestr\\spp\\tracer\\tracer\\tests2\\callmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|solutionrelative:tests2\\callmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|d:\\works\\6 semestr\\spp\\tracer\\tracer\\tests2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|solutionrelative:tests2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|d:\\works\\6 semestr\\spp\\tracer\\tracer\\tests2\\callthreads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E679697E-1DDF-42BD-BF32-D376069D0A1D}|Tests2\\Tests.csproj|solutionrelative:tests2\\callthreads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|d:\\works\\6 semestr\\spp\\tracer\\tracer\\tracer\\core\\tracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|solutionrelative:tracer\\core\\tracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\tracer\\core\\traceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|solutionrelative:tracer\\core\\traceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\tracer\\core\\threadinforesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|solutionrelative:tracer\\core\\threadinforesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EC997-C7DB-4E67-8229-6C340277B5EC}|Tracer.Serialization\\Tracer.Serialization.csproj|D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\tracer.serialization\\xml\\tracer.serialization.xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EC997-C7DB-4E67-8229-6C340277B5EC}|Tracer.Serialization\\Tracer.Serialization.csproj|solutionrelative:tracer.serialization\\xml\\tracer.serialization.xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\tracer\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64CB973-C504-4DC4-A524-331534AD4B09}|Tracer\\Tracer.csproj|solutionrelative:tracer\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests2\\Tests.csproj",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests.csproj",
+              "RelativeToolTip": "Tests2\\Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T09:52:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tracer.Serialization.Xml.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer.Serialization\\Xml\\Tracer.Serialization.Xml.cs",
+              "RelativeDocumentMoniker": "Tracer.Serialization\\Xml\\Tracer.Serialization.Xml.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer.Serialization\\Xml\\Tracer.Serialization.Xml.cs",
+              "RelativeToolTip": "Tracer.Serialization\\Xml\\Tracer.Serialization.Xml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:15:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThreadInfoResult.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\ThreadInfoResult.cs",
+              "RelativeDocumentMoniker": "Tracer\\Core\\ThreadInfoResult.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\ThreadInfoResult.cs",
+              "RelativeToolTip": "Tracer\\Core\\ThreadInfoResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:12:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraceResult.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\TraceResult.cs",
+              "RelativeDocumentMoniker": "Tracer\\Core\\TraceResult.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\TraceResult.cs",
+              "RelativeToolTip": "Tracer\\Core\\TraceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:27:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Tracer\\Example\\Program.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Example\\Program.cs",
+              "RelativeToolTip": "Tracer\\Example\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:12:56.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallThreads.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\CallThreads.cs",
+              "RelativeDocumentMoniker": "Tests2\\CallThreads.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\CallThreads.cs",
+              "RelativeToolTip": "Tests2\\CallThreads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:58:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Tests2\\MSTestSettings.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\MSTestSettings.cs",
+              "RelativeToolTip": "Tests2\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:57:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tracer.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\Tracer.cs",
+              "RelativeDocumentMoniker": "Tracer\\Core\\Tracer.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Core\\Tracer.cs",
+              "RelativeToolTip": "Tracer\\Core\\Tracer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwG0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:39:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallMethods.cs",
+              "DocumentMoniker": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\CallMethods.cs",
+              "RelativeDocumentMoniker": "Tests2\\CallMethods.cs",
+              "ToolTip": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\CallMethods.cs",
+              "RelativeToolTip": "Tests2\\CallMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:02:31.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
