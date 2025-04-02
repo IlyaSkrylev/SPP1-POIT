@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkO846x4VbA=",
+  "dgSpecHash": "RNAkaSgAZxg=",
   "success": true,
-  "projectFilePath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests.csproj",
+  "projectFilePath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tests2\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

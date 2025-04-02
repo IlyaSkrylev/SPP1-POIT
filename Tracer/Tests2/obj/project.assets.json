@@ -1768,11 +1768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests.csproj",
+      "projectUniqueName": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tests2\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\Tests.csproj",
+      "projectPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tests2\\Tests.csproj",
       "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tests2\\obj\\",
+      "outputPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tests2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Applications\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -1794,8 +1794,8 @@
         "net472": {
           "targetAlias": "net472",
           "projectReferences": {
-            "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj": {
-              "projectPath": "D:\\Works\\6 semestr\\SPP\\Tracer\\Tracer\\Tracer\\Tracer.csproj"
+            "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tracer\\Tracer.csproj": {
+              "projectPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tracer\\Tracer\\Tracer.csproj"
             }
           }
         }

@@ -1,0 +1,3 @@
+is_global = true
+build_property.CsWin32InputMetadataPaths = C:\Users\Ilya\.nuget\packages\microsoft.windows.sdk.win32metadata\33.0.18-preview\buildTransitive\..\Windows.Win32.winmd
+build_property.CsWin32InputDocPaths = C:\Users\Ilya\.nuget\packages\microsoft.windows.sdk.win32docs\0.1.7-alpha\buildTransitive\..\apidocs.msgpack

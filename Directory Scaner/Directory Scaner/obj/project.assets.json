@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {},
+    ".NETFramework,Version=v4.7.2/win": {},
+    ".NETFramework,Version=v4.7.2/win-arm64": {},
+    ".NETFramework,Version=v4.7.2/win-x64": {},
+    ".NETFramework,Version=v4.7.2/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "System.Windows.Forms >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ilya\\.nuget\\packages\\": {},
+    "D:\\Applications\\Visual Studio 2022\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Directory Scaner\\Directory Scaner.csproj",
+      "projectName": "Directory Scaner",
+      "projectPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Directory Scaner\\Directory Scaner.csproj",
+      "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
+      "outputPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Directory Scaner\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "UsingMicrosoftNETSdk": false,
+      "fallbackFolders": [
+        "D:\\Applications\\Visual Studio 2022\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Scanner\\Scanner.csproj": {
+              "projectPath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Scanner\\Scanner.csproj"
+            }
+          }
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "System.Windows.Forms": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "libraryId": "System.Windows.Forms"
+    }
+  ]
+}

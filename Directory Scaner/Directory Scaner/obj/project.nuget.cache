@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQun4k475sU=",
+  "success": false,
+  "projectFilePath": "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Directory Scaner\\Directory Scaner\\Directory Scaner.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "libraryId": "System.Windows.Forms"
+    }
+  ]
+}

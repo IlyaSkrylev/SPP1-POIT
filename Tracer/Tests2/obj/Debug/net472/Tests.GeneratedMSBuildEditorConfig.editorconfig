@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Tests
-build_property.ProjectDir = D:\Works\6 semestr\SPP\Tracer\Tracer\Tests2\
+build_property.ProjectDir = D:\Works\6 semestr\SPP\SPP1-POIT\Tracer\Tests2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

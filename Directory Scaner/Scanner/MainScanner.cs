@@ -17,8 +17,7 @@ namespace Scanner
         private List<Thread> threads;
         private Queue<Action> tasks;
         private Dictionary<int, bool> isThreadWorking;
-        private Semaphore threadLimiter;
-        private CancellationTokenSource cancellationTokenSource;
+        public CancellationTokenSource cancellationTokenSource;
         private string rootPath;
         private bool isCompleted = false;
         private int activeTasksCount = 0;
@@ -34,14 +33,12 @@ namespace Scanner
             threads = new List<Thread>();
             tasks = new Queue<Action>();
             isThreadWorking = new Dictionary<int, bool>();
-            threadLimiter = new Semaphore(1, 1);
             cancellationTokenSource = new CancellationTokenSource();
             folderLock = new object();
         }
 
         public void StartScan()
         {
-            // Запуск воркеров
             for (int i = 0; i < threadsCount; i++)
             {
                 var t = new Thread(DoThreadWork);
@@ -51,11 +48,9 @@ namespace Scanner
                 isThreadWorking.Add(t.ManagedThreadId, false);
             }
 
-            // Стартуем сканирование
             EnqueueTask(() => ProcessFolder(rootPath, null));
         }
 
-        // Метод для ожидания завершения сканирования
         public async Task WaitForCompletionAsync()
         {
             await Task.Run(() => scanCompleted.WaitOne());
@@ -81,7 +76,7 @@ namespace Scanner
             {
                 Action task = DequeueTask();
                 if (task == null)
-                    break; // Выходим из цикла, если больше нет задач
+                    break;
 
                 try
                 {
@@ -105,7 +100,7 @@ namespace Scanner
                 while (tasks.Count == 0)
                 {
                     if (isCompleted)
-                        return null; // Сигнал потокам завершиться
+                        return null; 
 
                     Monitor.Wait(tasks);
                 }
@@ -189,7 +184,6 @@ namespace Scanner
             }
             catch
             {
-                // Пропустить каталог, если нет доступа и т.п.
             }
             finally
             {
@@ -204,7 +198,6 @@ namespace Scanner
             {
                 activeTasksCount--;
 
-                // Если больше нет активных задач и очередь пуста, завершаем работу
                 if (activeTasksCount == 0 && tasks.Count == 0)
                 {
                     isCompleted = true;
@@ -214,7 +207,6 @@ namespace Scanner
             }
             if (isNeedComplete)
             {
-                // Сигнализируем о завершении сканирования
                 scanCompleted.Set();
             }
         }

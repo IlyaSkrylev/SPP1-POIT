@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Microsoft.Win32;
 using System.Collections.ObjectModel;
+using System.Windows.Forms;
 
 namespace Directory_Scaner
 {
@@ -18,6 +19,7 @@ namespace Directory_Scaner
         private MainScanner _scanner;
         private string _scanStatus;
         private bool _isScanning;
+        private const int threadsCount = 1;
 
         public event PropertyChangedEventHandler PropertyChanged;
 
@@ -55,32 +57,42 @@ namespace Directory_Scaner
         {
             try
             {
-                string selectedPath = "D:\\Applications";
-                _isScanning = true;
-                ScanStatus = "Scanning...";
 
-                _scanner = new MainScanner(selectedPath, 1);
-                _scanner.StartScan();
-
-                await _scanner.WaitForCompletionAsync();
-
-                var rootFolder = _scanner.RootFolder;
-                if (rootFolder != null)
+                using (var folderDialog = new FolderBrowserDialog())
                 {
-                    System.Diagnostics.Debug.WriteLine($"Root folder size: {rootFolder.size}");
-                    System.Diagnostics.Debug.WriteLine($"Subfolders count: {rootFolder.folders.Count}");
-                    System.Diagnostics.Debug.WriteLine($"Files count: {rootFolder.files.Count}");
-                }
+                    folderDialog.Description = "Выберите папку";
+                    folderDialog.ShowNewFolderButton = true;
 
-                await System.Windows.Application.Current.Dispatcher.InvokeAsync(() =>
-                {
-                    DirectoryStructure = new ObservableCollection<FolderViewModel>
+                    if (folderDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                     {
+                        string selectedPath = folderDialog.SelectedPath;
+                        _isScanning = true;
+                        ScanStatus = "Scanning...";
+
+                        _scanner = new MainScanner(selectedPath, threadsCount);
+                        _scanner.StartScan();
+
+                        await _scanner.WaitForCompletionAsync();
+
+                        var rootFolder = _scanner.RootFolder;
+                        if (rootFolder != null)
+                        {
+                            System.Diagnostics.Debug.WriteLine($"Root folder size: {rootFolder.size}");
+                            System.Diagnostics.Debug.WriteLine($"Subfolders count: {rootFolder.folders.Count}");
+                            System.Diagnostics.Debug.WriteLine($"Files count: {rootFolder.files.Count}");
+                        }
+
+                        await System.Windows.Application.Current.Dispatcher.InvokeAsync(() =>
+                        {
+                            DirectoryStructure = new ObservableCollection<FolderViewModel>
+                            {
                         ConvertToViewModel(_scanner.RootFolder)
-                    };
-                    _isScanning = false;
-                    ScanStatus = "Scan completed";
-                });
+                            };
+                            _isScanning = false;
+                            ScanStatus = "Scan completed";
+                        });
+                    }
+                }
             }
             catch (Exception ex)
             {
