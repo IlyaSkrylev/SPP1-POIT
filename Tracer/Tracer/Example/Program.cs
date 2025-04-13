@@ -14,7 +14,7 @@ namespace Tracer.Example
 {
     class Program
     {
-        private static string pathToDll = @"D:\Works\6 semestr\SPP\Tracer\Tracer\Tracer.Serialization\bin\Debug";
+        private static string pathToDll = @"..\..\..\Tracer.Serialization\bin\Debug";
         private static void Main(string[] args)
         {
             ITracer tracer = new Core.Tracer();
