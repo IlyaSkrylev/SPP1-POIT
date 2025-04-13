@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests Generator", "Tests Generator\Tests Generator.csproj", "{56ED05CD-B814-47AE-AE48-C0BEC85E31D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Generator Library", "Test Generator Library\Test Generator Library.csproj", "{1C71D3D6-CED0-418B-88C2-93777382FA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56ED05CD-B814-47AE-AE48-C0BEC85E31D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ED05CD-B814-47AE-AE48-C0BEC85E31D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ED05CD-B814-47AE-AE48-C0BEC85E31D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ED05CD-B814-47AE-AE48-C0BEC85E31D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C71D3D6-CED0-418B-88C2-93777382FA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C71D3D6-CED0-418B-88C2-93777382FA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C71D3D6-CED0-418B-88C2-93777382FA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C71D3D6-CED0-418B-88C2-93777382FA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
