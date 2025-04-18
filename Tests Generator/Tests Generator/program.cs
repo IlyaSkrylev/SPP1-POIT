@@ -11,8 +11,8 @@ namespace Tests_Generator
     {
         static async Task Main(string[] args)
         {
-            var inputDirectory = "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tests Generator\\InputDirectory";
-            var outputDirectory = "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tests Generator\\OutputDirectory";
+            var inputDirectory = "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tests Generator\\Test Classes\\Classes";
+            var outputDirectory = "D:\\Works\\6 semestr\\SPP\\SPP1-POIT\\Tests Generator\\Test Classes Tests";
 
             var inputFiles = Directory.GetFiles(inputDirectory, "*.cs");
 
